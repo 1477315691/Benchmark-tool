@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Benchmark_tool\\Benchmark_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|d:\\project\\benchmark_tool\\benchmark_api\\benchmark_api\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|solutionrelative:benchmark_api\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|d:\\project\\benchmark_tool\\benchmark_api\\benchmark_api\\service\\connectionvmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|solutionrelative:benchmark_api\\service\\connectionvmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|d:\\project\\benchmark_tool\\benchmark_api\\benchmark_api\\controllers\\benchmarkruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|solutionrelative:benchmark_api\\controllers\\benchmarkruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|d:\\project\\benchmark_tool\\benchmark_api\\benchmark_api\\controllers\\parameterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|solutionrelative:benchmark_api\\controllers\\parameterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|d:\\project\\benchmark_tool\\benchmark_api\\benchmark_api\\controllers\\vmruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|solutionrelative:benchmark_api\\controllers\\vmruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|d:\\project\\benchmark_tool\\benchmark_api\\benchmark_api\\models\\runbenchmarkviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|solutionrelative:benchmark_api\\models\\runbenchmarkviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|d:\\project\\benchmark_tool\\benchmark_api\\benchmark_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|solutionrelative:benchmark_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|d:\\project\\benchmark_tool\\benchmark_api\\benchmark_api\\service\\authhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|solutionrelative:benchmark_api\\service\\authhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|d:\\project\\benchmark_tool\\benchmark_api\\benchmark_api\\service\\azureclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C32EAF-2B41-4167-A7E3-8160BABBB202}|Benchmark_API\\Benchmark_API.csproj|solutionrelative:benchmark_api\\service\\azureclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BenchmarkRunController.cs",
+              "DocumentMoniker": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Controllers\\BenchmarkRunController.cs",
+              "RelativeDocumentMoniker": "Benchmark_API\\Controllers\\BenchmarkRunController.cs",
+              "ToolTip": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Controllers\\BenchmarkRunController.cs",
+              "RelativeToolTip": "Benchmark_API\\Controllers\\BenchmarkRunController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:25:13.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "Benchmark_API\\Controllers\\DataController.cs",
+              "ToolTip": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Controllers\\DataController.cs",
+              "RelativeToolTip": "Benchmark_API\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:10:20.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALcTAAAAAAAAAAAgwKoTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-13T09:01:51.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VMRunController.cs",
+              "DocumentMoniker": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Controllers\\VMRunController.cs",
+              "RelativeDocumentMoniker": "Benchmark_API\\Controllers\\VMRunController.cs",
+              "ToolTip": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Controllers\\VMRunController.cs",
+              "RelativeToolTip": "Benchmark_API\\Controllers\\VMRunController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:45:05.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionVMService.cs",
+              "DocumentMoniker": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Service\\ConnectionVMService.cs",
+              "RelativeDocumentMoniker": "Benchmark_API\\Service\\ConnectionVMService.cs",
+              "ToolTip": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Service\\ConnectionVMService.cs",
+              "RelativeToolTip": "Benchmark_API\\Service\\ConnectionVMService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAEwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:43:40.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParametersController.cs",
+              "DocumentMoniker": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Controllers\\ParametersController.cs",
+              "RelativeDocumentMoniker": "Benchmark_API\\Controllers\\ParametersController.cs",
+              "ToolTip": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Controllers\\ParametersController.cs",
+              "RelativeToolTip": "Benchmark_API\\Controllers\\ParametersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:11:18.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RunBenchmarkViewModel.cs",
+              "DocumentMoniker": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Models\\RunBenchmarkViewModel.cs",
+              "RelativeDocumentMoniker": "Benchmark_API\\Models\\RunBenchmarkViewModel.cs",
+              "ToolTip": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Models\\RunBenchmarkViewModel.cs",
+              "RelativeToolTip": "Benchmark_API\\Models\\RunBenchmarkViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:34:18.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Program.cs",
+              "RelativeDocumentMoniker": "Benchmark_API\\Program.cs",
+              "ToolTip": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Program.cs",
+              "RelativeToolTip": "Benchmark_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:15:55.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthHelpers.cs",
+              "DocumentMoniker": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Service\\AuthHelpers.cs",
+              "RelativeDocumentMoniker": "Benchmark_API\\Service\\AuthHelpers.cs",
+              "ToolTip": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Service\\AuthHelpers.cs",
+              "RelativeToolTip": "Benchmark_API\\Service\\AuthHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:42:54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AzureClientFactory.cs",
+              "DocumentMoniker": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Service\\AzureClientFactory.cs",
+              "RelativeDocumentMoniker": "Benchmark_API\\Service\\AzureClientFactory.cs",
+              "ToolTip": "D:\\Project\\Benchmark_tool\\Benchmark_API\\Benchmark_API\\Service\\AzureClientFactory.cs",
+              "RelativeToolTip": "Benchmark_API\\Service\\AzureClientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:42:54.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

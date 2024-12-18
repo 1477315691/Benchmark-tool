@@ -1,0 +1,78 @@
+[
+  {
+    "ContainingType": "Benchmark_API.Controllers.BenchmarkRunController",
+    "Method": "Get",
+    "RelativePath": "api/BenchmarkRun",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Benchmark_API.Controllers.BenchmarkRunController",
+    "Method": "Post",
+    "RelativePath": "api/BenchmarkRun",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Benchmark_API.Models.RunBenchmarkViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Benchmark_API.Controllers.DataController",
+    "Method": "Get",
+    "RelativePath": "api/Data/AllData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Benchmark_API.Controllers.DataController",
+    "Method": "FinalGet",
+    "RelativePath": "api/Data/FinalData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Benchmark_API.Controllers.ParametersController",
+    "Method": "Get",
+    "RelativePath": "api/Parameters",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Benchmark_API.Controllers.VMRunController",
+    "Method": "Get",
+    "RelativePath": "api/VMRun",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

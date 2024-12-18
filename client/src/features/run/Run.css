@@ -1,0 +1,29 @@
+/* 样式 for form boxes with padding, border, and background */
+.benchmark-form-box {
+    padding: 10px 20px 10px 5px;
+    border: 2px solid #ADD8E6; /* 淡蓝色边框 */
+    border-radius: 8px; /* 圆角 */
+    background-color: #f9f9f9; /* 背景颜色 */
+    width: 100%; /* 确保 Box 组件宽度与 Grid 一致 */
+    margin: 0px 16px 16px 0px; /* 边距 */
+  }
+  
+  /* 样式 for Grid container with item spacing */
+  .benchmark-grid-item {
+    padding-bottom: 16px;
+  }
+  
+  .benchmark-input-label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .benchmark-text-field {
+    width: 100%;
+  }
+  
+  /* 样式 for Input Label inside Grid */
+  .benchmark-grid-label {
+    padding-left: 10px;
+  }
+  
